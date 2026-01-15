@@ -58,7 +58,7 @@ nav a:hover {
 }
 
 .btn.primary {
-    background: black;
+    background: blue;
     color: white;
 }
 
@@ -101,7 +101,7 @@ nav a:hover {
 .card button {
     padding: 8px 12px;
     border: 1px solid black;
-    background: black;
+    background: blue;
     color: white;
     cursor: pointer;
 }
